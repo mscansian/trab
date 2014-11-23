@@ -18,12 +18,38 @@
 \usepackage{geometry}
 \geometry{a4paper, total={210mm,297mm}, left=30mm, right=20mm, top=30mm, bottom=20mm}
 
+%Numero paginas
+\usepackage{lastpage}
+
 %Numeros romanos para Tabelas
 \renewcommand{\thetable}{\Roman{table}}
 
 \begin{document}
 
-	%Capa do relatorio
+%Folha de rosto
+	\begin{titlepage}
+		\begin{center}
+			{
+				\fontsize{16pt}{\baselineskip}\fontfamily{\familydefault}\selectfont 
+				UNIVERSIDADE DO ESTADO DE SANTA CATARINA \\
+				CENTRO DE CIÊNCIAS TECNOLÓGICAS - CCT \\
+				ENGENHARIA MECÂNICA
+			}\\[6cm]
+			
+			{\fontsize{18pt}{\baselineskip}\fontfamily{\familydefault}\selectfont MATHEUS GIARETTA CANSIAN}\\[5.5cm]
+
+			{\fontsize{18pt}{\baselineskip}\fontfamily{\familydefault}\selectfont \bf RELATÓRIO DE ESTÁGIO CURRICULAR}
+
+			\vfill
+
+			\fontsize{14pt}{\baselineskip} \fontfamily{\familydefault} \selectfont
+			Joinville, SC\\[0.2cm]
+			2014
+		\end{center}
+	\end{titlepage}
+	%\pagebreak
+
+	%Folha de rosto
 	\begin{titlepage}
 		\begin{center}
 			{\fontsize{16pt}{\baselineskip}\fontfamily{\familydefault}\selectfont MATHEUS GIARETTA CANSIAN}\\[6cm]
@@ -41,8 +67,9 @@
 				Orientador: Fernando Hummel Lafratta\\[0.1cm]
 				Supervisor: Michael Thamm
 			\end{minipage}
-		}\\[2.5cm]
+		}
 		
+		\vfill
 		
 		\begin{center}
 		{
@@ -52,6 +79,7 @@
 		}
 		\end{center}
 	\end{titlepage}
+	%\pagebreak
 
 %Espacamento 1.5
 \onehalfspacing
@@ -64,10 +92,39 @@
 \listoffigures
 \pagebreak
 
-\section{Resumo}
+{
+	\noindent
+	
+	\begin{center}
+	{
+		\bf RESUMO
+	}\\[3cm]
+	\end{center} 
+	
+	{
+		CANSIAN, Matheus. RELATÓRIO DE ESTÁGIO CURRICULAR. 2014. \pageref{LastPage} fls. Relatório de estágio (Graduação em Engenharia Mecânica) – Universidade do Estado de Santa Catarina, Joinville, 2014. 
+	}\\[2cm]
+
+	
+	Este trabalho apresenta algumas das atividades desenvolvidas pelo estagiário durante o período de estágio curricular do curso de Engenharia Mecânica da Universidade do Estado de Santa Catarina – UDESC, na empresa Husqvarna Construction Products, durante o período de 11 de abril de 2014 a 31 de dezembro de 2014. Os projetos realizados estão ligados a área de Vendas e Marketing do escritório de Niederstotzingen. Durante o decorrer do estágio foram executadas diversas atividades. Este trabalho descreve o desenvolvimento dos projetos contidos no plano de estágio. O primeiro deles corresponde a nova política de preços para as peças de reposição e o segundo é referente a criação de um programa de manutenção de serra de parede. Ademais, uma breve revisão dos conceitos de administração financeiras foi incluída. Alguns dados foram omitidos para atender a política de confidencialidade da Husqvarna.
+	
+	\vfill
+
+	{
+		Palavras-chaves: Vendas, Precificação, Peças de Reposição, Manutenção
+	}
+}
+
 \pagebreak
 
-\section{Abstract}
+{
+	\noindent
+	\begin{center}	
+	{
+		\bf ABSTRACT
+	}
+	\end{center}
+}
 \pagebreak
 
 
@@ -382,6 +439,11 @@ Na figura \ref{fig:effects} pode-se ver uma representação simples dos efeitos 
 \pagebreak
 
 \section{Considerações finais}
+	
+	Embora o trabalho na área de vendas envolva bastante questões humanas, como relacionamento com clientes. Os aspectos exatos tem uma grande parcela de importância. Antes de se comunicar com o cliente é importante definir a estratégia que o time deve seguir, preços, serviços e diversas outros fatores. Para a maior parte dessas atividades, habilidades em raciocínio lógico e matemática, características fundamentais de um engenheiro, são os principais requisitos para a realização de um trabalho de qualidade. Ademais, nem sempre a decisão de compra de um cliente é baseada em racionalidade e exatidão. Isso cria um desafio adicional para o engenheiro que está acostumado a equações e resultados exatos. A solução para isso deve ser buscar junto a literatura, alguns conceitos de administração que auxiliem na determinação dos fatores emocionais dos clientes.
+
+	A área de vendas apresenta alguns desafios que não são encontrados, por exemplo, na área de projetos. Entretanto, o perfil de engenharia, aliado com o estudo de alguns conceitos de administração torna esse profissional extremamente qualificado para a entrega de resultados.
+
 \pagebreak
 
 \end{document}
