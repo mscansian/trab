@@ -7,37 +7,35 @@
 \contentsline {subsubsection}{\numberline {4.1.1}Husqvarna}{7}
 \contentsline {subsubsection}{\numberline {4.1.2}Gardena}{7}
 \contentsline {subsubsection}{\numberline {4.1.3}McCulloch e Diamant Boart}{8}
-\contentsline {subsection}{\numberline {4.2}Visao}{8}
+\contentsline {subsection}{\numberline {4.2}Vis\IeC {\~a}o}{8}
 \contentsline {subsection}{\numberline {4.3}Misao}{8}
 \contentsline {subsection}{\numberline {4.4}Historia}{8}
 \contentsline {subsection}{\numberline {4.5}Principais produtos}{9}
 \contentsline {subsection}{\numberline {4.6}Mercado de constru\IeC {\c c}\IeC {\~a}o civil na Alemanha}{9}
 \contentsline {subsection}{\numberline {4.7}Tipos de clientes}{9}
-\contentsline {subsection}{\numberline {4.8}Estrutura administrativa}{10}
-\contentsline {subsection}{\numberline {4.9}Instala\IeC {\c c}\IeC {\~o}es}{10}
-\contentsline {section}{\numberline {5}Teoria}{11}
-\contentsline {subsection}{\numberline {5.1}Preco, Custo e Valor}{11}
-\contentsline {subsubsection}{\numberline {5.1.1}Preco}{11}
-\contentsline {subsubsection}{\numberline {5.1.2}Custo}{12}
-\contentsline {subsubsection}{\numberline {5.1.3}Valor}{12}
-\contentsline {subsection}{\numberline {5.2}Financas Corporativas}{12}
-\contentsline {subsubsection}{\numberline {5.2.1}Receita}{13}
+\contentsline {subsection}{\numberline {4.8}Instala\IeC {\c c}\IeC {\~o}es}{10}
+\contentsline {section}{\numberline {5}Conceitos de administra\IeC {\c c}\IeC {\~a}o financeira}{11}
+\contentsline {subsection}{\numberline {5.1}Pre\IeC {\c c}o, Custo e Valor}{11}
+\contentsline {subsubsection}{\numberline {5.1.1}Pre\IeC {\c c}o}{11}
+\contentsline {subsubsection}{\numberline {5.1.2}Custo}{11}
+\contentsline {subsubsection}{\numberline {5.1.3}Valor}{11}
+\contentsline {subsection}{\numberline {5.2}Finan\IeC {\c c}as Corporativas}{12}
+\contentsline {subsubsection}{\numberline {5.2.1}Receita}{12}
 \contentsline {subsubsection}{\numberline {5.2.2}Desconto e Abatimento}{13}
-\contentsline {subsubsection}{\numberline {5.2.3}Custos Variaveis}{14}
-\contentsline {subsubsection}{\numberline {5.2.4}Lucro Bruto}{14}
-\contentsline {subsubsection}{\numberline {5.2.5}Custos Fixos}{14}
-\contentsline {subsubsection}{\numberline {5.2.6}EBIT}{14}
+\contentsline {subsubsection}{\numberline {5.2.3}Custos Vari\IeC {\'a}veis}{13}
+\contentsline {subsubsection}{\numberline {5.2.4}Lucro Bruto}{13}
+\contentsline {subsubsection}{\numberline {5.2.5}Custos Fixos}{13}
+\contentsline {subsubsection}{\numberline {5.2.6}EBIT}{13}
 \contentsline {subsubsection}{\numberline {5.2.7}Impostos}{14}
 \contentsline {subsubsection}{\numberline {5.2.8}Lucro Liquido}{14}
-\contentsline {subsection}{\numberline {5.3}Efeitos Financeiros}{15}
-\contentsline {subsubsection}{\numberline {5.3.1}Efeito Volume}{15}
-\contentsline {subsubsection}{\numberline {5.3.2}Efeito Preco}{16}
-\contentsline {subsubsection}{\numberline {5.3.3}Efeito Custo}{16}
-\contentsline {subsubsection}{\numberline {5.3.4}Efeito Mix}{16}
-\contentsline {section}{\numberline {6}Projetos Realizados}{16}
-\contentsline {subsection}{\numberline {6.1}Politica de precifica\IeC {\c c}\IeC {\~a}o para pe\IeC {\c c}as de reposi\IeC {\c c}\IeC {\~a}o}{16}
-\contentsline {subsection}{\numberline {6.2}Servi\IeC {\c c}o de manuten\IeC {\c c}\IeC {\~a}o de serras de parede}{18}
-\contentsline {subsubsection}{\numberline {6.2.1}Analise de custos e precificacao}{20}
-\contentsline {subsubsection}{\numberline {6.2.2}Documentacao externa e interna}{21}
-\contentsline {section}{\numberline {7}Observacoes referentes as informacoes do relatorio}{22}
-\contentsline {section}{\numberline {8}Considera\IeC {\c c}\IeC {\~o}es finais}{23}
+\contentsline {subsection}{\numberline {5.3}Efeitos Financeiros}{14}
+\contentsline {section}{\numberline {6}Projetos Realizados}{15}
+\contentsline {subsection}{\numberline {6.1}Pol\IeC {\'\i }tica de precifica\IeC {\c c}\IeC {\~a}o para pe\IeC {\c c}as de reposi\IeC {\c c}\IeC {\~a}o}{15}
+\contentsline {subsubsection}{\numberline {6.1.1}Indicador de valor}{16}
+\contentsline {subsubsection}{\numberline {6.1.2}Pre\IeC {\c c}o de mercado}{17}
+\contentsline {subsubsection}{\numberline {6.1.3}Movimenta\IeC {\c c}\IeC {\~a}o de pre\IeC {\c c}os}{18}
+\contentsline {subsection}{\numberline {6.2}Servi\IeC {\c c}o de manuten\IeC {\c c}\IeC {\~a}o de serras de parede}{19}
+\contentsline {subsubsection}{\numberline {6.2.1}An\IeC {\'a}lise de custos e precifica\IeC {\c c}\IeC {\~a}o}{20}
+\contentsline {subsubsection}{\numberline {6.2.2}Documenta\IeC {\c c}\IeC {\~a}o externa e interna}{21}
+\contentsline {section}{\numberline {7}Observa\IeC {\c c}\IeC {\~o}es referentes as informa\IeC {\c c}\IeC {\~o}es do relat\IeC {\'o}rio}{23}
+\contentsline {section}{\numberline {8}Considera\IeC {\c c}\IeC {\~o}es finais}{24}
