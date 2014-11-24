@@ -87,43 +87,42 @@
 %Espacamento 1.5
 \onehalfspacing
 
-%Corrige numeracao de pagina
-\setcounter{page}{2}
+%Desabilita numeracao pagina
+\pagenumbering{gobble}
 
 \begin{center}
 {
-	APROVADO EM 05/12/2014
+	{
+		APROVADO EM 05/12/2014
+	}\\[5cm]
 	
-	___________________________________________ \\
-	Professor: Fermando Humel Lafratta \\
-	Doutor em Engenharia Meânica \\
-	Professor orientador \\
+	{	
+		\begin{tabular}[t]{@{}l@{}}
+			\makebox[8cm]{\dotfill}\\
+		\end{tabular} \\
+		Professor: Fernando Humel Lafratta \\
+		Doutor em Engenharia Meânica \\
+		Professor orientador
+	}\\[5cm]
 	
-	___________________________________________ \\
+	\begin{tabular}[t]{@{}l@{}}
+		\makebox[8cm]{\dotfill}\\
+	\end{tabular} \\
 	Professor: José Aldo Silva Lima \\
 	Doutor em Engenharia Meânica \\
 	Membro da banca \\
 }
+\end{center}
 \pagebreak
 
-\begin{center}
-{
-	%\includepdf[pages={1,2,3}]{myfile.pdf}
-	[Inserir aqui a ficha de avaliação pela universidade]
-}
-\pagebreak
+%Avaliacao Universidade
+\includepdf[pages={1}]{inc/avaliacao.pdf}
 
-\begin{center}
-{
-	[Inserir aqui a ficha de avaliação pela empresa]
-}
-\pagebreak
+%Avaliacao Empresa
+\includepdf[pages={2}]{inc/avaliacao.pdf}
 
-\begin{center}
-{
-	[Inserir aqui o plano de estágio]
-}
-\pagebreak
+%Plano de estagio
+\includepdf[pages={1,2}]{inc/plano.pdf}
 
 %Sumario
 \tableofcontents
@@ -134,7 +133,7 @@
 \pagebreak
 
 {
-	\noindent
+	
 	
 	\begin{center}
 	{
@@ -144,17 +143,20 @@
 	
 	\begin{flushright}
 	{
+		\noindent
 		CANSIAN, Matheus. RELATÓRIO DE ESTÁGIO CURRICULAR. 2014. \pageref{LastPage} fls. Relatório de estágio (Graduação em Engenharia Mecânica) – Universidade do Estado de Santa Catarina, Joinville, 2014. 
 	}\\[2cm]
 	\end{flushright}
 
 %MOZI, LEMBRE-SE QUE A REFERÊNCIA NÃO É JUSTIFICADA, MAS SIM ALINHADA À DIREITA. NADA NESSA FOLHA DEVE TER PARÁGRAFO.
 	
-	Apresenta algumas das atividades desenvolvidas pelo estagiário durante o período de estágio curricular do curso de Engenharia Mecânica da Universidade do Estado de Santa Catarina – UDESC, na empresa Husqvarna Construction Products, durante o período de 11 de abril de 2014 a 31 de dezembro de 2014. Os projetos realizados estão ligados à área de Vendas e Marketing do escritório de Niederstotzingen. Descreve o desenvolvimento dos projetos contidos no plano de estágio. O primeiro deles corresponde a nova política de preços para as peças de reposição e o segundo é referente à criação de um programa de manutenção de serra de parede. Apresenta breve revisão dos conceitos de administração financeira. Alguns dados foram omitidos para atender à política de confidencialidade da Husqvarna.
-	
-	\vfill
+	{
+		\noindent
+		Apresenta algumas das atividades desenvolvidas pelo estagiário durante o período de estágio curricular do curso de Engenharia Mecânica da Universidade do Estado de Santa Catarina – UDESC, na empresa Husqvarna Construction Products, durante o período de 11 de abril de 2014 a 31 de dezembro de 2014. Os projetos realizados estão ligados à área de Vendas e Marketing do escritório de Niederstotzingen. Descreve o desenvolvimento dos projetos contidos no plano de estágio. O primeiro deles corresponde a nova política de preços para as peças de reposição e o segundo é referente à criação de um programa de manutenção de serra de parede. Apresenta breve revisão dos conceitos de administração financeira. Alguns dados foram omitidos para atender à política de confidencialidade da Husqvarna.
+	}\\[1cm]
 
 	{
+		\noindent
 		Palavras-chave: Vendas; Precificação; Peças de Reposição; Manutenção.
 	}
 }
@@ -169,23 +171,29 @@
 	}\\[3cm]
 	\end{center} 
 	
-	%TRADUZIR REFERENCIA!!!!
 	\begin{flushright}
 	{
-		CANSIAN, Matheus. RELATÓRIO DE ESTÁGIO CURRICULAR. 2014. \pageref{LastPage} fls. Relatório de estágio (Graduação em Engenharia Mecânica) – Universidade do Estado de Santa Catarina, Joinville, 2014. 
+		\noindent
+		CANSIAN, Matheus. REPORT OF MANDATORY INTERNSHIP. 2014. \pageref{LastPage} pages. Internship report (Major in Mechanical Engineering) – Universidade do Estado de Santa Catarina, Joinville, 2014. 
 	}\\[2cm]
 	\end{flushright}
 	
-	%CORRIGIR A TRADUCAO!!!!
-	Presents some of the activities developed by the intern during the mandatory internship required to major in Mechanical Engineering in Universidade do Estado de Santa Catarina - UDESC in the company Husqvarna Construction Products during the period of April 11th, 2014 to December 31th, 2014. All projects developed are related to Sales and Marketing in Niederstotzingen. Describes the development of the projects described in the internship plan. The first one corresponds to new pricing policy for spare parts and the second is related to the creation of a wall saw's maintenance program. Presents a brief review of financial management concepts. Some data have been omitted to comply with Husqvarna's confidentiality policy.
+	{
+		\noindent
+		Presents some of the activities developed by the intern during the mandatory internship, required by Mechanical Engineering in Universidade do Estado de Santa Catarina - UDESC, in the company Husqvarna Construction Products during the period of April 11th, 2014 to December 31th, 2014. All projects developed are related to Sales and Marketing in Niederstotzingen. Describes the development of the projects written in the internship plan. The first one corresponds to new pricing policy for spare parts and the second is related to the creation of a wall saw's maintenance program. Presents a brief review of financial management concepts. Some data have been omitted to comply with Husqvarna's confidentiality policy.
+	}\\[1cm]
 	
-	\vfill
 
 	{
+		\noindent
 		Keywords: Sales; Pricing; Spare parts; Maintenance.
 	}
 }
 \pagebreak
+
+%Re-habiilita a numeracao de pagina
+\pagenumbering{arabic}
+\setcounter{page}{10}
 
 \section{Introdução}
 
